@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-- <a href="#">Desafio 1.</a> Tutorial | Cafeteira Dolce Gusto.
+- <a href="https://tutorial-dolcegusto.netlify.app/">Desafio 1.</a> Tutorial | Cafeteira Dolce Gusto.
 - <a href="#">Desafio 2.</a> E-mail | Resposta ao Cliente.
 
 ---
